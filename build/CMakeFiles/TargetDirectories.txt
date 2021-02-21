@@ -1,0 +1,3 @@
+/home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/build/CMakeFiles/rebuild_cache.dir
+/home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/build/CMakeFiles/edit_cache.dir
+/home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/build/CMakeFiles/monitor.dir
