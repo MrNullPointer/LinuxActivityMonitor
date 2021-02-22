@@ -10,6 +10,14 @@
 string
 -
 
+../include/linux_parser.h
+fstream
+-
+regex
+-
+string
+-
+
 ../include/ncurses_display.h
 curses.h
 -
@@ -34,6 +42,24 @@ process.h
 processor.h
 ../include/processor.h
 
+/home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/format.cpp
+format.h
+/home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/format.h
+string
+-
+
+/home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/linux_parser.cpp
+linux_parser.h
+/home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/linux_parser.h
+dirent.h
+-
+unistd.h
+-
+string
+-
+vector
+-
+
 /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/main.cpp
 ncurses_display.h
 /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/ncurses_display.h
@@ -41,6 +67,8 @@ system.h
 /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/system.h
 
 /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/ncurses_display.cpp
+ncurses_display.h
+/home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/ncurses_display.h
 curses.h
 -
 chrono
@@ -53,12 +81,26 @@ vector
 -
 format.h
 /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/format.h
-ncurses_display.h
-/home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/ncurses_display.h
 system.h
 /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/system.h
 
+/home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/process.cpp
+process.h
+/home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/process.h
+unistd.h
+-
+cctype
+-
+sstream
+-
+string
+-
+vector
+-
+
 /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/system.cpp
+system.h
+/home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/system.h
 unistd.h
 -
 cstddef
@@ -73,6 +115,4 @@ process.h
 /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/process.h
 processor.h
 /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/processor.h
-system.h
-/home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/system.h
 
