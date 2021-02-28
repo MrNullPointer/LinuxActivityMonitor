@@ -1,7 +1,7 @@
 # Linux Activity Monitor
 
 <p align:center>
-  <img width=150% src = "./ActivityMonitor.png">
+  <img width=200% src = "./Monitor.gif">
 </p>
 
 - Activity Monitor application for Linux kernels to read from active processes, structure the data read, process and output processed data to terminal 
