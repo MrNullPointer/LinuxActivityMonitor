@@ -8,6 +8,7 @@ CMakeFiles/monitor.dir/src/linux_parser.cpp.o
  ../include/linux_parser.h
  /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/linux_parser.cpp
 CMakeFiles/monitor.dir/src/main.cpp.o
+ ../include/linux_parser.h
  ../include/ncurses_display.h
  ../include/process.h
  ../include/processor.h
@@ -15,18 +16,23 @@ CMakeFiles/monitor.dir/src/main.cpp.o
  /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/main.cpp
 CMakeFiles/monitor.dir/src/ncurses_display.cpp.o
  ../include/format.h
+ ../include/linux_parser.h
  ../include/ncurses_display.h
  ../include/process.h
  ../include/processor.h
  ../include/system.h
  /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/ncurses_display.cpp
 CMakeFiles/monitor.dir/src/process.cpp.o
+ ../include/linux_parser.h
  ../include/process.h
  /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/process.cpp
 CMakeFiles/monitor.dir/src/processor.cpp.o
+ ../include/linux_parser.h
  ../include/processor.h
  /home/mrheapallocator/Documents/Documents/ubuntu/Projects/LinuxActivityMonitor/src/processor.cpp
 CMakeFiles/monitor.dir/src/system.cpp.o
+ ../include/format.h
+ ../include/linux_parser.h
  ../include/process.h
  ../include/processor.h
  ../include/system.h
