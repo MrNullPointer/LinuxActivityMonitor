@@ -14,3 +14,8 @@
 - Clean the repo using: <b><i> make clean </i></b>
 - Build the repo using: <b><i> make build </i></b>
 - Run the application: <b><i> ./build/monitor </i></b>
+
+#### I am planning to extend this project on other systems as well, please reach out to collaborate.
+<a href="mailto:iparikshitdubey@gmail.com">
+<img width=5% src = "./email.png" />
+</a> <br /> <br />
